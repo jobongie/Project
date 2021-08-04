@@ -1,2 +1,2 @@
-# Covid_Project
+# Project
 Demonstration Day
